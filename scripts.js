@@ -9,7 +9,7 @@ function loadComponents() {
     <nav>
         <a href="index.html">
             <div class="logo">
-                <img src="images/the-amazing-conf-logo-blue-transparent.png" alt="Conference Logo" height="60px">
+                <img src="https://flannseminars.github.io/img/flann.webp" alt="Conference Logo" height="60px">
             </div>
         </a>
         <ul class="main__ul">
