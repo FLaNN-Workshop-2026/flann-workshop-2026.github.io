@@ -3,7 +3,7 @@ function loadComponents() {
     // This workaround loads the header and the footer, 
     // and insert it into the proper divs (based on their IDs)
     // to avoid duplication across multiple pages.
-    
+
     header = `
     <header>
     <nav>
@@ -17,6 +17,7 @@ function loadComponents() {
             <li><a href="index.html">Home</a></li>
             <li><a href="dates.html">Important Dates</a></li>
             <li><a href="cfp.html">Call for posters</a></li>
+            <li><a href="speakers.html">Speakers</a></li>
             <li><a href="organization.html">Organization</a></li>
             <li><a href="venue.html">Venue</a></li>
             <li><a href="sponsor.html">Sponsor</a></li>
@@ -47,7 +48,7 @@ function loadComponents() {
     document.getElementById('footer').innerHTML = footer;
 
     // responsive menu
-    document.querySelector('#menu').addEventListener('click', ()=>{
+    document.querySelector('#menu').addEventListener('click', () => {
         document.querySelector('nav ul').classList.toggle('showmenu');
     });
 
