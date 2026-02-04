@@ -10,7 +10,7 @@ function loadComponents() {
         <a href="index.html">
             <div class="logo">
                 <!--<img src="https://flannseminars.github.io/img/flann.webp" alt="Conference Logo" height="60px">-->
-                <img src="flann-2026-logo.png" alt="Conference Logo" height="60px">
+                <img src="images/flann_yale_circle.png" alt="Conference Logo" height="60px">
             </div>
         </a>
         <ul class="main__ul">
