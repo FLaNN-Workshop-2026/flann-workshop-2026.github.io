@@ -20,8 +20,6 @@ function loadComponents() {
             <li><a href="speakers.html">Speakers</a></li>
             <li><a href="organization.html">Organization</a></li>
             <li><a href="venue.html">Venue</a></li>
-            <li><a href="sponsor.html">Sponsor</a></li>
-            <li><a href="contact.html">Contact</a></li>
             <li><a href="registration.html" class="link-btn">Registration</a></li>
         </ul>
     </nav>
