@@ -16,7 +16,7 @@ function loadComponents() {
         <ul class="main__ul">
             <li><a href="index.html">Home</a></li>
             <li><a href="dates.html">Important Dates</a></li>
-            <li><a href="cfp.html">Call for posters</a></li>
+            <!--<li><a href="cfp.html">Call for posters</a></li>-->
             <li><a href="speakers.html">Speakers</a></li>
             <li><a href="posters.html">Accepted Posters</a></li>
             <li><a href="organization.html">Organization</a></li>
