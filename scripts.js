@@ -20,6 +20,7 @@ function loadComponents() {
             <!--<li><a href="cfp.html">Call for posters</a></li>-->
             <li><a href="speakers.html">Speakers</a></li>
             <li><a href="posters.html">Accepted Posters</a></li>
+            <li><a href="resources.html">Resources</a></li>
             <li><a href="organization.html">Organization</a></li>
             <li><a href="venue.html">Venue</a></li>
             <li><a href="registration.html" class="link-btn">Registration</a></li>
